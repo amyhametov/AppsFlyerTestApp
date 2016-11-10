@@ -9,6 +9,6 @@ Example of AppsFlyer relaunch app.
 
 4. Launch app on iOS device.
 
-5. Close app.
+5. Close app from list of running apps.
 
 6. In Console.app you can see log of app relaunching.
